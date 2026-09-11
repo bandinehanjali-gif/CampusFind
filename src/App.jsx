@@ -3,7 +3,7 @@ import { supabase } from "./lib/supabaseClient";
 
 import Login from "./components/Login.jsx";
 import Dashboard from "./components/Dashboard.jsx";
-import ReportLost from "./components/Reportlost.jsx";
+import ReportLost from "./components/ReportLost.jsx";
 import ReportFound from "./components/ReportFound.jsx";
 import SearchFound from "./components/SearchFound.jsx";
 import TrackLost from "./components/TrackLost.jsx";
